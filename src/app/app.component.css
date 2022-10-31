@@ -1,3 +1,4 @@
-* [lang^=en] {
-  color: green;
+.navbar-dark {
+  font-weight: bold;
+  color:black;
 }
